@@ -1,2 +1,2 @@
 # CodeClauseInternship_Market_Basket_Analysis
-Market Basket Analysis in Python using Apriori Algorithm
+Project_2: Market Basket Analysis in Python using Apriori Algorithm
